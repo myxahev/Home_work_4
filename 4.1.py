@@ -13,5 +13,4 @@ def simple_calc():
 
 print(f'Размер заработной платы составил: {simple_calc() } $')
 
-# python 4.1.py 40 150 30%
-# python 4.1.py 40 150 50%
+# python 4.1.py 40 150 5000
